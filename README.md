@@ -1,9 +1,9 @@
 # Tarea-Sist.-Operativo
 Nombre: Vicente Aguilera
 
-##compilacion y ejecucion
+## compilacion y ejecucion
 
-```cpp
+``` cpp
   $ make 
   g++ -c Programa.cpp
   g++ Programa.o -o programa -pthread
