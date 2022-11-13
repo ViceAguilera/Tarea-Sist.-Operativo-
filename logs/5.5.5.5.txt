@@ -1,0 +1,5 @@
+PING 5.5.5.5 (5.5.5.5) 56(84) bytes of data.
+
+--- 5.5.5.5 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1001ms
+

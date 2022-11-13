@@ -1,0 +1,5 @@
+PING 9.9.9.9 (9.9.9.9) 56(84) bytes of data.
+
+--- 9.9.9.9 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 9.856/19.861/29.866/10.005 ms
